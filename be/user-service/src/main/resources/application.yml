@@ -1,0 +1,8 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/whcl_users
+server:
+  port: 8081
+web3:
+  infura-url: https://mainnet.infura.io/v3/31861429f6034645b0c9d1e6a7bdedda
